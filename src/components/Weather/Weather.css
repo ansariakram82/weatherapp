@@ -2,7 +2,7 @@
   background-color: #091f43;
   justify-content: center;
   justify-items: center;
-  height: 680px;
+  height: 100vh;
 }
 .weather .form-control {
   display: block;
@@ -67,10 +67,7 @@
   border-radius: 10px;
   background-color: #fff;
   color: black;
-  width: 30%;
   padding: 15px 25px 0px 25px;
-  justify-content: center;
-  margin-left: 325px;
   margin-top: 25px;
   text-align: center;
 }
@@ -168,7 +165,6 @@
   background-color: #091f43;
   justify-content: center;
   justify-items: center;
-  height: 600px;
 }
 .api-data {
   border: 1px solid #fff;
@@ -183,7 +179,7 @@
   margin-top: 25px;
 }
 .api-data h1 {
-  font-size: 36px;
+  font-size: 33px;
 }
 .minmax {
   display: flex;
@@ -191,6 +187,11 @@
   text-align: center;
   justify-content: center;
 }
+}
+.card{
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
