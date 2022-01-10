@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A weather app in ReactJS using Open Weather API.<br/>
+URL: https://akram82-weather-app.netlify.app/
 
 ## Available Scripts
 
