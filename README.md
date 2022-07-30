@@ -1,4 +1,4 @@
-A weather app in ReactJS using Open Weather API.<br/>
+A weather app on ReactJS using Open Weather API.<br/>
 URL: https://akram82-weather-app.netlify.app/
 
 ## Available Scripts
