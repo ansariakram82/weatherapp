@@ -1,5 +1,8 @@
 A weather app on ReactJS using Open Weather API.<br/>
-URL: https://akram82-weather-app.netlify.app/
+ 
+1st URL:-: https://ansariakram82.github.io/
+
+2nd URL:-: https://akram82-weather-app.netlify.app/
 
 ## Available Scripts
 
